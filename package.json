@@ -1,0 +1,32 @@
+{
+  "name": "node-tv-calendar-client",
+  "version": "1.0.0",
+  "description": "Node.js client for TV Calendar (Unofficial)",
+  "homepage": "http://github.com/diogoduailibe/node-tv-calendar-client",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/diogoduailibe/node-tv-calendar-client.git"
+  },
+  "author": {
+    "name": "Diogo Duailibe",
+    "email": "dioduailibe@gmail.com"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "cheerio": "latest",
+    "async": "latest",
+    "request": "latest",
+    "iz":"latest"
+  },
+  "keywords": [
+    "tvcalendar",
+    "pogdesign",
+    "pogdesign.co.uk",
+    "tv-series",
+    "client"
+  ],
+  "engines": {
+    "node": ">= 4.6.0"
+  },
+  "license": "MIT"
+}
