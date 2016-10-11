@@ -69,7 +69,7 @@ var client = require('node-tv-calendar-client');
 
 client.searchEpisodesBySeason("The Flash",2, (err,list) => {
     if (!err)
-        console.log(list); //print all tv shows that has `the voice` as title content.
+        console.log(list); //print all episodes from The Flash's Season 2
     else
         console.log(err);
 });
