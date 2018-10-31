@@ -1,6 +1,6 @@
 {
   "name": "node-tv-calendar-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js client for TV Calendar (Unofficial)",
   "homepage": "http://github.com/diogoduailibe/node-tv-calendar-client",
   "repository": {
