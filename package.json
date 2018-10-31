@@ -16,7 +16,7 @@
     "cheerio": "latest",
     "async": "latest",
     "request": "latest",
-    "iz":"latest"
+    "iz":"0.5.1"
   },
   "keywords": [
     "tvcalendar",
